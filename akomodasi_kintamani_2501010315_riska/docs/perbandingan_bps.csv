@@ -1,0 +1,4 @@
+﻿sumber_data,jumlah_akomodasi,cakupan_wilayah,keterangan
+OpenStreetMap (OSM),,Kecamatan Kintamani,Isi setelah menjalankan skrip; jumlah berasal dari data/interim/akomodasi_kintamani.csv.
+BPS Kabupaten Bangli,,Kecamatan Kintamani,"Belum diisi: telusuri tabel akomodasi pada publikasi BPS dan catat tahun, nama tabel, halaman, serta angka. Jika angka tingkat kecamatan tidak tersedia, jelaskan sesuai instruksi dosen."
+Persentase kelengkapan,,,Hitung jumlah OSM / jumlah BPS x 100% hanya jika kedua angka sebanding dan sumber BPS terverifikasi.

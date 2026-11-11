@@ -1,0 +1,12 @@
+{
+  "endpoint_url": "https://overpass-api.de/api/interpreter",
+  "query_file": "docs/query_overpass.txt",
+  "acquisition_timestamp_utc": null,
+  "total_elements": null,
+  "raw_file": null,
+  "raw_file_md5": null,
+  "licensing": "Open Database License (ODbL) - © OpenStreetMap contributors",
+  "collector_name": "Ni Putu Riska Pramesti Cahya Dewi",
+  "collector_nim": "2501010315",
+  "status": "Template. Jalankan skrip_akuisisi.py untuk mengisi waktu akuisisi, jumlah elemen, nama file mentah, dan MD5 secara otomatis."
+}

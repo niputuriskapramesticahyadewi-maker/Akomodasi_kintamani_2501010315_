@@ -1,0 +1,13 @@
+﻿aspek_etika,status,bukti_atau_keterangan
+lisensi_data,Dipenuhi setelah atribusi dicantumkan,Data berasal dari OpenStreetMap dengan lisensi ODbL; cantumkan © OpenStreetMap contributors di README dan laporan.
+sumber_diizinkan,Dipenuhi,"Menggunakan Overpass API OpenStreetMap; tidak menggunakan OTA, halaman Google Maps, atau sumber terlarang."
+minimisasi_data,Dipenuhi,"Nomor telepon, email, dan akun media sosial pemilik tidak diambil."
+privasi_individu,Dipenuhi,"Dataset dibatasi pada informasi fasilitas akomodasi publik, bukan data pribadi individu."
+pembatasan_request,Perlu dijalankan sesuai prosedur,Jalankan akuisisi satu atau dua kali; hindari loop request; gunakan retry dengan jeda eksponensial.
+identitas_user_agent,Dipenuhi oleh skrip,Skrip mengirim User-Agent yang mengidentifikasi praktikum dan kontak institusi.
+penanganan_error,Dipenuhi oleh skrip,"Skrip menangani timeout, koneksi, dan status HTTP 429/5xx dengan retry terbatas."
+integritas_data_mentah,Dipenuhi oleh skrip setelah dijalankan,"JSON mentah disimpan sebagai file baru, tidak ditimpa; hash MD5 dicatat di provenance."
+transparansi_transformasi,Dipenuhi oleh skrip,Transformasi JSON ke CSV dilakukan pada skrip dan kolom mengikuti data dictionary.
+verifikasi_manual,Belum dilakukan,"Verifikasi nama, jenis, dan lokasi 10 sampel harus dilakukan manual dan dicatat pada docs/sampel_verifikasi_10.csv."
+batas_wilayah,Wajib diperiksa manual,Periksa bahwa area admin_level pada query benar-benar batas Kecamatan Kintamani melalui Overpass Turbo; simpan catatan atau tangkapan layar.
+keterbatasan_data,Wajib dijelaskan,OSM bersifat sukarela dan dapat tidak lengkap; jangan menyimpulkan jumlah akomodasi sebenarnya hanya dari OSM.
