@@ -31,5 +31,4 @@ Proses ekstraksi berhasil menjaring sejumlah elemen fasilitas akomodasi dengan r
 * **Lisensi:** Data bersumber dari OpenStreetMap di bawah lisensi *Open Database License* (ODbL) © kontributor OSM.
 * **Privasi:** Data yang dikumpulkan terbatas pada fasilitas publik komersial (akomodasi niaga), tidak melibatkan data pribadi individu.
 
----
-*Dokumen laporan ini disusun guna memenuhi tugas mata kuliah BIFP-243 Institut Bisnis dan Teknologi Indonesia (INSTIKI).*
+
