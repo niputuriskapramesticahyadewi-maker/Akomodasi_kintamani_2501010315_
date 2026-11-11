@@ -19,5 +19,4 @@ Projek ini mengumpulkan data spasial fasilitas akomodasi pariwisata di **Kecamat
 - `docs/` : Dokumen kueri, metadata provenance, kamus data, dan perbandingan BPS.
 - `reports/` : Dokumen laporan akhir praktikum (`laporan_akomodasi_kintamani.md`).
 
-## Sumber Data & Lisensi
-Data bersumber dari © OpenStreetMap contributors di bawah lisensi *Open Database License* (ODbL).
+
