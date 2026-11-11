@@ -1,0 +1,4 @@
+[out:json][timeout:90];
+area["name"="Kintamani"]["boundary"="administrative"]["admin_level"="6"]->.kec;
+nwr["tourism"~"^(hotel|guest_house|hostel|motel|apartment|chalet)$"](area.kec);
+out center tags;

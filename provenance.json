@@ -1,0 +1,9 @@
+{
+  "endpoint_url": "https://overpass-api.de/api/interpreter",
+  "query_file": "query_overpass.txt",
+  "acquisition_timestamp_utc": "2026-11-11T04:00:00Z",
+  "total_elements": 32,
+  "licensing": "Open Database License (ODbL) - © OpenStreetMap contributors",
+  "collector_name": "Ni Putu Riska Pramesti Cahya Dewi",
+  "collector_nim": "2501010315"
+}

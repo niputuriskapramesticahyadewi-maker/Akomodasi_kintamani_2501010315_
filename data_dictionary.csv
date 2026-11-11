@@ -1,0 +1,12 @@
+kolom,tipe_data,deskripsi
+osm_type,string,Jenis elemen OSM (node/way/relation)
+osm_id,integer,ID unik elemen OpenStreetMap
+nama,string,Nama akomodasi/hotel
+jenis,string,Kategori pariwisata (hotel, guest_house, hostel, dll)
+lat,float,Garis lintang (latitude)
+lon,float,Garis bujur (longitude)
+desa,string,Nama desa administratif
+bintang,integer,Klasifikasi bintang akomodasi
+jumlah_kamar,integer,Kapasitas kamar
+website,string,Situs web resmi akomodasi
+url_osm,string,Tautan referensi OSM

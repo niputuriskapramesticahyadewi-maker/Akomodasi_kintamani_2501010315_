@@ -1,0 +1,5 @@
+aspek_etika,status,keterangan
+lisensi_data,Ya,Menggunakan data terbuka OpenStreetMap di bawah lisensi ODbL
+privasi_individu,Ya,Hanya merekam data fasilitas publik komersial (akomodasi), bukan data pribadi individu
+keamanan_api,Ya,Menerapkan pembatasan waktu timeout dan User-Agent identitas yang jelas
+reproduksi_data,Ya,Menyediakan skrip Python transparan dan file provenance
